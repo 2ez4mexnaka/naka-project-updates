@@ -3,26 +3,3 @@
   "download_url": "https://pixeldrain.com/api/file/zg9exCwK",
   "changelog": "- New GUI Theme\n- Bug fixes\n- Performance improvements\n- New features"
 }
-```
-
-### **3. Cara Update Nanti:**
-Ketika Anda rilis versi baru:
-1. Upload EXE baru ke Pixeldrain
-2. Copy **File ID** dari Pixeldrain
-3. Edit `version.json` di GitHub:
-   - Ubah `version` jadi `"1.1"` atau versi yang lebih tinggi
-   - Ubah `download_url` dengan Pixeldrain API link baru
-4. Commit changes
-
----
-
-## 🔗 Format Link Pixeldrain:
-
-Setelah upload ke Pixeldrain, Anda dapat link seperti:
-```
-https://pixeldrain.com/u/zg9exCwK
-```
-
-**Untuk version.json, gunakan format API:**
-```
-https://pixeldrain.com/api/file/zg9exCwK
