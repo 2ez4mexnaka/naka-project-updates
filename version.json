@@ -1,8 +1,9 @@
 {
-  "version": "1.0",
+  "version": "1.1",
   "download_url": "https://raw.githubusercontent.com/2ez4mexnaka/naka-project-updates/refs/heads/main/NakaProject.exe",
   "changelog": "• New Theme GUI\n• Fixed mouse detection with Ctrl/Shift\n• Improved license validation\n• Added rounded corners to dialogs\n• Performance improvements",
   "required": false,
   "min_version": "1.0"
 }
+
 
